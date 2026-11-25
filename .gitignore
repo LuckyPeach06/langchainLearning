@@ -1,0 +1,13 @@
+# 虚拟环境(体积大,拿到仓库后执行 pip install -r requirements.txt 重建)
+.venv/
+
+# 密钥与本地配置
+.env
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+.idea/
